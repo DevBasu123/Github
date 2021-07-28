@@ -13,4 +13,4 @@
 #### $ ssh-add ~/.ssh/id_rsa
 
 ### Test connection
-#### $ ssh -T <git@githost>
+#### $ ssh -T \<git@githost\>
